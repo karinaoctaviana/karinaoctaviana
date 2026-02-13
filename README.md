@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Karina 👋
 
-<!--
-**karinaoctaviana/karinaoctaviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer & Backend Developer  
+I build production-ready AI systems using TensorFlow, FastAPI, Docker, and AWS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Python
+- TensorFlow / Keras
+- FastAPI
+- Docker
+- AWS (ECS, S3, DynamoDB)
+- CI/CD (GitHub Actions)
+
+---
+
+## 🔥 Featured Projects
+
+### 🏋️ Gym ML Calorie API
+Production-ready ML API for calorie prediction using TensorFlow + FastAPI + Docker.
+
+### 🧠 Mental Health Classification
+Machine learning project with weighted F1-score evaluation.
+
+### 🏥 ViuMe Backend
+Scalable backend system for AI-powered cervical cancer diagnosis platform deployed on AWS.
+
+---
+
+## 📫 Let's Connect
+
+Open to:
+- ML API development
+- Backend engineering
+- Model deployment
+- AWS cloud projects
