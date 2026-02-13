@@ -36,3 +36,7 @@ Open to:
 - Backend engineering
 - Model deployment
 - AWS cloud projects
+
+ ## Contact:
+ email: karinaoctaviana12@gmail.com
+ upwork: https://www.upwork.com/freelancers/~01c7f9eeacda9a49cd?mp_source=share
